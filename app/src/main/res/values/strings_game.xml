@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">Mulai Game</string>
+    <string name="restart_game">Main Lagi</string>
+    <string name="score_label">Skor</string>
+    <string name="lives_label">Nyawa</string>
+    <string name="game_over">Game Over</string>
+</resources>
